@@ -65,7 +65,7 @@ A análise revelou algumas restrições que podem influenciar os resultados:
 
 A pesquisa foi realizada com base em um questionário estruturado, e as variáveis analisadas foram:
 
-![image](https://github.com/user-attachments/assets/9f902545-b491-4a61-b9a9-8b3366092752)
+![image](https://github.com/user-attachments/assets/fc899308-a4e5-4f99-9585-fa96689cdaf3)
 
 ### Abordagem de Análise
 
