@@ -11,21 +11,22 @@ Os resultados deste estudo não apenas revelam insights sobre o interesse e a di
 
 O presente estudo foi desenvolvido com o propósito de fundamentar as decisões estratégicas da startup Agility no lançamento do curso de Técnicas de Trading Algorítmico. Os objetivos principais incluem:
 
-### Avaliar o Interesse pelo Curso:
+### Avaliar o Interesse pelo Curso
 
 - Identificar o percentual de potenciais clientes que demonstram interesse em adquirir o curso.
 - Essa análise ajuda a determinar se há demanda suficiente para justificar o investimento no desenvolvimento do produto.
   
-### Definir o Preço Médio Aceitável:
+### Definir o Preço Médio Aceitável
 
 - Estimar o valor que o público-alvo estaria disposto a pagar pelo curso.
 - Essa informação é essencial para estabelecer uma precificação que seja viável financeiramente e atraente para os clientes.
 
-### Traçar o Perfil Demográfico e Comportamental:
+### Traçar o Perfil Demográfico e Comportamental
+
 - Mapear características como idade, gênero, escolaridade e comportamento de consumo dos interessados.
 - Esses dados permitem orientar estratégias de marketing personalizadas e aumentar a eficácia na comunicação com os potenciais clientes.
 
-### Analisar Limitações da Pesquisa:
+### Analisar Limitações da Pesquisa
 
 - Identificar possíveis restrições, como viés de amostra ou falta de representatividade dos respondentes.
 - Propor soluções para superar essas limitações, ampliando o alcance e a confiabilidade dos resultados, de forma a oferecer uma base sólida para a tomada de decisões.
