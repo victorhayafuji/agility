@@ -110,25 +110,33 @@ Cerca de 32,5% dos respondentes demonstraram interesse em participar do curso, s
 
 Com base no gráfico box-plot acima, é possível extrair diversas informações valiosas que auxiliam na compreensão do comportamento dos consumidores e na definição de estratégias de mercado. A seguir, são apresentadas algumas conclusões:
 
-**Preço Base de Referência**:  
+#### Preço Base de Referência 
+
    O valor mínimo de R$ 73,00 indica que há um grupo disposto a pagar um preço bastante baixo, possivelmente mais sensível a variações de preço. Para estratégias de segmentação de mercado, pode ser interessante atender esse público com versões econômicas ou promoções.
 
-**Disposição Geral para Pagamento**:  
+#### Disposição Geral para Pagamento 
+
    A mediana de R$ 90,00 demonstra que a maior parte dos respondentes está concentrada em valores próximos a esse ponto. Isso sugere que R$ 90,00 pode ser considerado um valor "justo" e amplamente aceitável para a maioria dos consumidores.
 
-**Influência de Valores Altos**:  
+#### Influência de Valores Altos
+
    A diferença entre a média (R$ 91,46) e a mediana (R$ 90,00) é pequena, mas revela uma ligeira inclinação para valores mais altos. Isso é reforçado pelo valor máximo de R$ 110,00, mostrando que alguns consumidores estão dispostos a pagar valores acima da média, o que pode ser explorado com produtos premium ou edições especiais.
 
-**Segmentação de Preço**:  
+#### Segmentação de Preço
+
    O 1º quartil (R$ 86,50) e o 3º quartil (R$ 96,50) destacam dois grupos distintos:
+   
    - **Sensíveis ao preço**: Até 25% dos consumidores estão dispostos a pagar até R$ 86,50.
-   - **Dispostos a pagar mais**: Três quartos dos consumidores estão dispostos a pagar até R$ 96,50.  
+   - **Dispostos a pagar mais**: Três quartos dos consumidores estão dispostos a pagar até R$ 96,50.
+     
    Esses dados permitem a criação de estratégias de preço diferenciadas, como promoções para atrair os mais sensíveis e produtos de maior valor agregado para o grupo mais disposto a pagar.
 
-**Limite de Preço Viável**:  
+#### Limite de Preço Viável
+
    Com o valor máximo declarado em R$ 110,00, há espaço para explorar o teto de preço, mas é fundamental entender que esses consumidores representam uma minoria. Estratégias que ultrapassem esse valor podem ser arriscadas sem maior análise de viabilidade.
 
-**Preço Ideal e Estratégias**:  
+#### Preço Ideal e Estratégias
+
    O intervalo entre R$ 86,50 (1º quartil) e R$ 96,50 (3º quartil) apresenta uma faixa na qual está a disposição de pagamento de 50% dos consumidores. Isso torna esses valores ideais para definir um preço competitivo e maximizar a aceitação do produto ou serviço.
 
 Essas análises podem orientar tanto estratégias de precificação quanto decisões sobre como posicionar o produto no mercado para atender diferentes perfis de consumidores.
