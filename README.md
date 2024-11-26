@@ -145,19 +145,19 @@ Essas análises podem orientar tanto estratégias de precificação quanto decis
 
 A análise revelou características claras do público interessado:
 
-- Gênero predominante
+#### Gênero predominante
 
 71,8% são homens, sugerindo maior apelo do curso para o público masculino.
 
 ![image](https://github.com/user-attachments/assets/ae47e8c7-c2f8-4943-ae3a-ca870ed8a3b9)
 
-- Faixa etária dominante
+#### Faixa etária dominante
 
 A maioria dos interessados está na faixa de 30 a 39 anos, indicando um público jovem-adulto em busca de capacitação técnica.
 
 ![image](https://github.com/user-attachments/assets/3a51a30d-f8d7-416f-8cb5-9695c5574ca6)
 
-- Escolaridade dos interessados
+#### Escolaridade dos interessados
 
 A maioria possui Ensino Superior ou Pós-Graduação, representando cerca de 54% da amostra, enquanto os demais níveis educacionais (Ensino Fundamental e Médio) correspondem a 46%. 
 
