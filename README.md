@@ -3,8 +3,11 @@
 ## Introdução
 
 Com a rápida evolução do mercado financeiro, as estratégias automatizadas têm se tornado indispensáveis, revolucionando a forma como investidores e traders operam. Reconhecendo esse cenário, a startup Agility vislumbrou uma oportunidade de oferecer um curso online de 4 horas sobre Técnicas de Trading Algorítmico, atendendo à demanda por capacitação técnica nessa área.
+
 Contudo, antes de direcionar recursos ao desenvolvimento e lançamento do curso, tornou-se necessário realizar um estudo estruturado para responder a questões fundamentais: existe demanda real para este produto? Qual o perfil do público-alvo? Qual o preço ideal que combine atratividade e viabilidade financeira?
+
 Com base nessas perguntas, foi conduzido um estudo abrangente que incluiu uma pesquisa de mercado utilizando questionários estruturados e uma análise detalhada dos dados coletados. O objetivo principal foi compreender o potencial do curso no mercado, validar seu público-alvo e fornecer uma base sólida para decisões estratégicas.
+
 Os resultados deste estudo não apenas revelam insights sobre o interesse e a disposição para pagamento, como também traçaram um perfil claro dos potenciais clientes, identificando oportunidades e desafios para o sucesso do projeto.
 
 ## Objetivo
